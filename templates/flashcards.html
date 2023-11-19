@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Flashcards</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='styles.css') }}">
+    <script>
+        function toggleDefinition(keyword) {
+            const definition = document.getElementById(`definition-${keyword}`);
+            definition.style.display = definition.style.display === 'none' ? 'block' : 'none';
+        }
+    </script>
+</head>
+<body>
+    <h1>Flashcards</h1>
+    <div class="flashcard-container">
+        {% for keyword, definition in flashcards.items() %}
+        <div class="flashcard" onclick="toggleDefinition('{{ keyword }}')">
+            <div class="flashcard-keyword">{{ keyword }}</div>
+            <div id="definition-{{ keyword }}" class="flashcard-definition" style="display: none;">{{ definition }}</div>
+        </div>
+        {% endfor %}
+    </div>
+</body>
+</html>

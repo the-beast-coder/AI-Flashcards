@@ -1,0 +1,27 @@
+.flashcard-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+}
+
+.flashcard {
+    background-color: #f8f8f8;
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 300px;
+    height: 150px;
+    text-align: center;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+}
+
+.flashcard-keyword {
+    font-weight: bold;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+
+.flashcard-definition {
+    font-size: 16px;
+}

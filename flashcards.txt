@@ -1,0 +1,26 @@
+Cell cycle | The series of stages by which genetic materials are duplicated and partitioned to produce two daughter cells with the same genetic component as the parent cell
+Mitosis | A form of eukaryotic cell division that produces two daughter cells with the same genetic component as the parent cell
+Meiosis | A form of eukaryotic cell division that produces haploid sex cells or gametes from diploid cells
+G1 phase | Metabolic changes prepare the cell for division
+S phase | DNA synthesis replicates the genetic material
+G2 phase | Metabolic changes assemble the cytoplasmic materials necessary for mitosis and cytokinesis
+M phase | A nuclear division (mitosis) followed by a cell division (cytokinesis)
+Interphase | The period between mitotic divisions (G1, S, and G2)
+Prophase | The nuclear membrane breaks down, centrosomes duplicate, chromosomes condense
+Prometaphase | Chromosomes migrate to the equatorial plane, spindle fibers bind to kinetochores
+Metaphase | Chromosomes align along the metaphase plate of the spindle apparatus
+Anaphase | Centromeres divide, sister chromatids are pulled apart and move to opposite ends of the cell
+Telophase | Nuclear membrane reforms, chromosomes uncoil, spindle fibers disappear
+Cytokinesis | The final cellular division to form two new cells
+Leptotene | Chromosomes start to condense
+Zygotene | Homologous chromosomes become closely associated to form pairs of chromosomes
+Pachytene | Crossing over between pairs of homologous chromosomes to form chiasmata
+Diplotene | Homologous chromosomes start to separate but remain attached by chiasmata
+Diakinesis | Homologous chromosomes continue to separate, chiasmata move to the ends of the chromosomes
+Prometaphase I | Spindle apparatus formed, chromosomes attached to spindle fibers by kinetochores
+Metaphase I | Homologous pairs of chromosomes arranged as a double row along the metaphase plate
+Anaphase I | Homologous chromosomes in each bivalent are separated and move to opposite poles of the cell
+Telophase I | Chromosomes become diffuse, nuclear membrane reforms
+Cytokinesis | The final cellular division to form two new cells, followed by Meiosis II
+Meiosis II | Separates each chromosome into two chromatids, analogous to a mitotic division but with halved number of chromosomes
+Genetic diversity | Generated through the exchange of genetic material, random alignment of chromosomes, and random alignment of sister chromatids during meiosis
